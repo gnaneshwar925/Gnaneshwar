@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sai Gnaneshwar
+# Hi there, I'm Sai Gnaneshwar
 
 I'm a **Software Engineer** passionate about building scalable cloud-native applications, distributed systems, and exploring AI/ML.
 
@@ -29,13 +29,13 @@ Recently, I've expanded into **Python** for data science and AI, building end-to
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-### 🌟 Featured Projects
+### Featured Projects
 
 - **Movie Review Sentiment Analyzer** (Python + AI/ML)  
   End-to-end NLP app analyzing IMDb reviews with Positive/Neutral/Negative detection using BERT-based models. Includes data exploration, word clouds, and interactive UI.  
-  🚀 [Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/ss4582/movie_review_sentiment_analyzer)  
-  📓 [Notebook (view in nbviewer)](https://nbviewer.org/github/gnaneshwar925/Gnaneshwar/blob/main/Imdb_project(SA).ipynb)  
-  📦 [Source](https://github.com/gnaneshwar925/Gnaneshwar/blob/main/Imdb_project(SA).ipynb)
+  [Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/ss4582/movie_review_sentiment_analyzer)  
+  [Notebook (view in nbviewer)](https://nbviewer.org/github/gnaneshwar925/Gnaneshwar/blob/main/Imdb_project(SA).ipynb)  
+  [Source](https://github.com/gnaneshwar925/Gnaneshwar/blob/main/Imdb_project(SA).ipynb)
 
 - **Task Orchestration Service** (AWS Serverless)  
   Scalable workflow engine using Lambda, Step Functions, and DynamoDB.
@@ -43,12 +43,8 @@ Recently, I've expanded into **Python** for data science and AI, building end-to
 - **Kafka Event Stream Dashboard**  
   Real-time monitoring tool for Kafka clusters and message flows.
 
-### 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnaneshwar925&show_icons=true&theme=radical&count_private=true)](https://github.com/gnaneshwar925)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnaneshwar925&layout=compact&theme=radical)](https://github.com/gnaneshwar925)
+### Connect with Me
+- LinkedIn: [https://www.linkedin.com/in/gnaneshwar-r/]
+- Email: gnaneshwar925@gmail.com
 
-### 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/your-profile] (replace with yours)
-- Email: your.email@example.com
-
-Thanks for visiting! 🚀
+Thanks for visiting!
